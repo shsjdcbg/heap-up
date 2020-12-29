@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <div style="font-size: 25px;text-align: center;color: #000;font-weight: bold;">
+        <span>入职通知书</span>
+    </div>
+
+    <div style="text-align: center;padding: 10px;">
+        <img th:src="${avatar}"/>
+    </div>
+
+    <div style="color: #0060f1;text-decoration: underline;">
+       <span th:text="${username}"></span>
+    </div>
+
+    <p style="padding: 20px;">您好，很高兴通知您，通过对您两轮面试表现的综合评估，恭喜您已成功被我司录取！</p>
+
+    <div style="margin: 20px;">您的职位是：
+        <span style="color: blue;text-decoration: underline;" th:text="${position}"></span>
+    </div>
+    <p style="color: #0e0d0e">欢迎您加入我们的团队，希望大家一起努力，实现梦想~</p>
+    <a style="color: blue;" th:text="公司地址+'：'+${link}" th:href="${link}"></a>
+</body>
+</html>

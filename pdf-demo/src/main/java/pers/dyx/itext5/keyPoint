@@ -1,0 +1,23 @@
+   用iText生成PDF文档需要5个步骤：
+
+　　1、建立com.itextpdf.text.Document对象的实例。
+
+    Document document= new Document();
+
+　　2、建立一个书写器(Writer)与document对象关联，通过书写器(Writer)可以将文档写入到磁盘中。
+
+    PDFWriter.getInstance(document,new FileOutputStream("ITextTest.pdf"));
+
+　　3、打开文档。
+
+    document.open();
+
+　　4、向文档中添加内容。
+
+    document.add(newParagraph("IText  Test"));
+
+　　5、关闭文档。
+
+    document.close();
+
+　　通过上面的5个步骤，就能产生一个ITextTest.PDF的文件，文件内容为"ITextTest"。

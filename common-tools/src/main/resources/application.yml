@@ -1,0 +1,16 @@
+server:
+  port: 8081
+spring:
+  #邮件配置项
+  mail:
+    host: smtp.qq.com
+    port: 587
+    username: 1973984292@qq.com
+    password: dcinrbibazyhcjij
+    default-encoding: UTF-8
+    properties:
+      mail:
+        smtp:
+          socketFactoryClass: javax.net.ssl.SSLSocketFactory
+        debug: true
+

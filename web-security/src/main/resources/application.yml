@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  #安全
+  security:
+    user:
+      name: admin
+      password: admin
+

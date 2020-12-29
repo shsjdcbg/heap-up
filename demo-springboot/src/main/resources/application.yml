@@ -1,0 +1,16 @@
+## 获取配置文件示例
+conf:
+  test:
+    string: 字符测试
+    integer: 308943
+    boolean: true
+  auto:
+    string: 字符测试
+    integer: 308943
+    aboolean: true
+    hosts[0]: 192.168.11.11
+    hosts[1]: 192.168.11.12
+    hosts[2]: 192.168.11.13
+    ports[0]: 8080
+    ports[1]: 8070
+    ports[2]: 8090

@@ -1,0 +1,5 @@
+server:
+  port: 4098
+spring:
+  profiles:
+    active: ${PROFILES_ACTIVE:dev}

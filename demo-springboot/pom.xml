@@ -11,6 +11,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>demo-springboot</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>springboot-fastdfs</module>
+    </modules>
 
     <!--可以通过覆盖自己项目中的属性来覆盖单个依赖项。例如，要升级到另一个Spring数据发布列表-->
     <!--获取支持的属性列表：https://github.com/spring-projects/spring-boot/blob/v2.1.1.RELEASE/spring-boot-project/spring-boot-dependencies/pom.xml-->

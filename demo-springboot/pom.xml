@@ -14,6 +14,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>springboot-fastdfs</module>
+        <module>springboot-multi-datasource</module>
     </modules>
 
     <!--可以通过覆盖自己项目中的属性来覆盖单个依赖项。例如，要升级到另一个Spring数据发布列表-->

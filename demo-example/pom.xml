@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>demo-lombok</module>
+        <module>demo-fastjson</module>
     </modules>
 
     <dependencies>

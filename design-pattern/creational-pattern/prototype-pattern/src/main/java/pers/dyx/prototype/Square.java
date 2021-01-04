@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.creational.prototype;
+package pers.dyx.prototype;
 
 public class Square extends Shape {
 

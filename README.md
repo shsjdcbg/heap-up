@@ -42,6 +42,8 @@ fastdfs分布式文件系统客户端
 抽象工厂设计模式
 #### 4.1.4 builder-pattern
 建造者设计模式
+#### 4.1.5 prototype-pattern
+原型模式
 ## 5 distributed-limiter
 限流组件：限流的目的是通过对并发访问/请求进行限速，或者对一个时间窗口内的请求进行限速来保护系统，一旦达到限制速率则可以拒绝服务、排队或等待、降级等处理
 ## 6 nlp-china-demo

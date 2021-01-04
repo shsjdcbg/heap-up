@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.creational.singleton.six;
+package pers.dyx.singleton.six;
 
 public class SingletonDemo {
 	public static void main(String[] args) {

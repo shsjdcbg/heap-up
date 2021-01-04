@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.creational.singleton;
+package pers.dyx.singleton;
 
 public class SingleObject {
 

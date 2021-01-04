@@ -14,6 +14,7 @@
     <modules>
         <module>demo-lombok</module>
         <module>demo-fastjson</module>
+        <module>demo-gson</module>
     </modules>
 
     <dependencies>
@@ -21,11 +22,13 @@
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
             <version>3.8.1</version>
+            <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.31</version>
+            <optional>true</optional>
         </dependency>
 
     </dependencies>

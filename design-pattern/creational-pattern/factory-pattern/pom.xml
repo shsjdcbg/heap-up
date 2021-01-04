@@ -9,8 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>singleton-pattern</artifactId>
-    <description>单例设计模式</description>
+    <artifactId>factory-pattern</artifactId>
+    <description>工厂设计模式</description>
 
 
 </project>

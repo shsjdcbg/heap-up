@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.creational.factory;
+package pers.dyx.factory;
 
 public class Rectangle implements Shape {
 

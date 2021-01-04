@@ -1,4 +1,4 @@
-package pers.dyx.util;
+package pers.dyx.utils;
 
 import org.apache.commons.lang3.time.DateFormatUtils;
 import org.apache.commons.lang3.StringUtils;

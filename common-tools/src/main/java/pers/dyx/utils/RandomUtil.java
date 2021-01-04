@@ -1,7 +1,6 @@
-package pers.dyx.util;
+package pers.dyx.utils;
 
 import java.security.SecureRandom;
-import java.util.Date;
 
 /**
  * @author dyx

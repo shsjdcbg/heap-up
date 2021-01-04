@@ -1,4 +1,4 @@
-package pers.dyx.util;
+package pers.dyx.utils;
 
 import java.util.Random;
 import java.util.concurrent.atomic.AtomicInteger;

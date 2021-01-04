@@ -6,7 +6,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>common-tools</module>
-        <module>demo-aop</module>
         <module>demo-example</module>
         <module>design-pattern</module>
         <module>distributed-limiter</module>

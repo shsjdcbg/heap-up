@@ -1,6 +1,6 @@
 package pers.dyx.tool.localcache;
 
-import pers.dyx.util.StringUtils;
+import pers.dyx.utils.StringUtils;
 
 import java.util.concurrent.*;
 

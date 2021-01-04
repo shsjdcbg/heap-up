@@ -19,7 +19,6 @@ public class ReflectCallMethodAnnotation {
         WorkService workService = new WorkService();
 
         Class clazz = WorkService.class;
-//		 Class clazz = Class.forName("com.zbz.annotation.pattern1.WorkService");
         List<Method> methods = MethodUtils.getMethodsListWithAnnotation(clazz,Item.class);
         for (Method method : methods) {
             for (Annotation annotation : method.getDeclaredAnnotations()) {

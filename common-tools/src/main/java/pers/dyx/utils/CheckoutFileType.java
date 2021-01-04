@@ -1,4 +1,4 @@
-package pers.dyx.util;
+package pers.dyx.utils;
 
 import java.io.*;
 import java.util.HashMap;
@@ -20,7 +20,7 @@ public class CheckoutFileType {
     public static String resFileType = "";
 
     static {
-        // images          
+        // images
         mFileTypes.put("FFD8FFE0", ".jpg");
         mFileTypes.put("FFD8FFFE", ".jpg");
         mFileTypes.put("89504E47", ".png");

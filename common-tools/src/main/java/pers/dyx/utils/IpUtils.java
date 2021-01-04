@@ -1,7 +1,5 @@
-package pers.dyx.util;
+package pers.dyx.utils;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.util.StringUtils;
 
 import javax.servlet.http.HttpServletRequest;

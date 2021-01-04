@@ -1,4 +1,4 @@
-package pers.dyx.util;
+package pers.dyx.utils;
 
 /**
  * @author: dyx

@@ -1,4 +1,4 @@
-package pers.dyx.util;
+package pers.dyx.utils;
 
 import com.alibaba.fastjson.JSON;
 

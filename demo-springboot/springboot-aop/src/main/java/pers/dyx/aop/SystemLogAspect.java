@@ -14,7 +14,6 @@ import org.springframework.stereotype.Component;
 import pers.dyx.annotation.SystemControllerLog;
 
 import javax.servlet.http.HttpServletRequest;
-import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
@@ -94,8 +93,8 @@ public class SystemLogAspect {
         // 结束时间
         long endTime = System.currentTimeMillis();
 
-        if (logger.isDebugEnabled()) {
-            logger.debug("计时结束：{}  URI: {}  耗时： {}   最大内存: {}m  已分配内存: {}m  已分配内存中的剩余空间: {}m  最大可用内存: {}m",
+        if (logger.isInfoEnabled()) {
+            logger.info("计时结束：{}  URI: {}  耗时： {}   最大内存: {}m  已分配内存: {}m  已分配内存中的剩余空间: {}m  最大可用内存: {}m",
                     new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSS").format(endTime),
                     requestURI,
                     endTime - beginTime,

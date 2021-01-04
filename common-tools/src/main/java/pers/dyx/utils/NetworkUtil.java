@@ -1,4 +1,4 @@
-package pers.dyx.util;
+package pers.dyx.utils;
 
 import javax.servlet.http.HttpServletRequest;
 import java.io.BufferedReader;

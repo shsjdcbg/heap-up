@@ -1,9 +1,7 @@
-package pers.dyx.design.pattern.creational.bulider1;
+package pers.dyx.bulider1;
 
 /**
- * @author: dyx
- * @date: 2018/8/23 09:30
- * @description: Builder 模式
+ * Builder 模式
  * 当一个类中有很多属性，而且大部分属性为空时，如果要为这个类提供一个完整属性列表的构造函数的话
  * 会使用这个类被调用时需要提供所有的参数，这会非常的麻烦。因为大部分属性都是为空的。
  * 或者可以提供多个构造函数，分别适配不同的情形，但这样的话会导致构造函数非常多，
@@ -11,6 +9,9 @@ package pers.dyx.design.pattern.creational.bulider1;
  * <p>
  * 而Builder模式可以解决以上问题，它通过一个Builder类来构造一个对象，而不是以这个类的构造函数，
  * 同时以各种各样的setter方法对需要更改默认属性的进行设置。
+ *
+ * @author dyx
+ * @date 2018/8/23 09:30
  */
 public class Person {
     private final String name;

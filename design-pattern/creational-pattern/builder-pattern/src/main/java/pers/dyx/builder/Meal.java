@@ -1,4 +1,6 @@
-package pers.dyx.design.pattern.creational.builder;
+package pers.dyx.builder;
+
+import pers.dyx.builder.product.Item;
 
 import java.util.ArrayList;
 import java.util.List;

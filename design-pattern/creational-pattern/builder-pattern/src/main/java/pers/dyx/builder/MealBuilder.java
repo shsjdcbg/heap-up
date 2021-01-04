@@ -1,4 +1,9 @@
-package pers.dyx.design.pattern.creational.builder;
+package pers.dyx.builder;
+
+import pers.dyx.builder.product.ChickenBurger;
+import pers.dyx.builder.product.Coke;
+import pers.dyx.builder.product.Pepsi;
+import pers.dyx.builder.product.VegBurger;
 
 public class MealBuilder {
 

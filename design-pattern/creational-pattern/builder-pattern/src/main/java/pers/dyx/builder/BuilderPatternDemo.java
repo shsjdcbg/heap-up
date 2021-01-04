@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.creational.builder;
+package pers.dyx.builder;
 
 public class BuilderPatternDemo {
 	public static void main(String[] args) {

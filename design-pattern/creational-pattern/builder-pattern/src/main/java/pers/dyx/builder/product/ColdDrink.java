@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.creational.builder;
+package pers.dyx.builder.product;
 
 public abstract class ColdDrink implements Item {
 

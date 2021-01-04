@@ -10,6 +10,8 @@ Lombok 使用demo
 alibaba fastjson 实例
 ### 2.3 demo-gson
 google gson 示例
+### 2.4 example-itextpdf
+绘制PDf示例，使用itextpdf框架【子项目单独导入，作为子项目找不到resource中的文件】
 ## 3 demo-springboot
 ### 3.1 springboot-aop
 springboot aop 代码示例
@@ -48,7 +50,5 @@ fastdfs分布式文件系统客户端
 限流组件：限流的目的是通过对并发访问/请求进行限速，或者对一个时间窗口内的请求进行限速来保护系统，一旦达到限制速率则可以拒绝服务、排队或等待、降级等处理
 ## 6 nlp-china-demo
 中国自然语言处理，包含ansj_seg的分词代码示例
-## 7 pdf-demo
-绘制PDf demo，使用itextpdf框架【子项目单独导入，作为子项目找不到resource中的文件】
-## 8 web-security
+## 7 web-security
 Web安全相关

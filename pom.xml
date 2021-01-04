@@ -9,7 +9,6 @@
         <module>demo-example</module>
         <module>design-pattern</module>
         <module>distributed-limiter</module>
-        <module>pdf-demo</module>
         <module>web-security</module>
         <module>nlp-china-demo</module>
         <module>demo-springboot</module>

@@ -15,6 +15,7 @@
         <module>demo-lombok</module>
         <module>demo-fastjson</module>
         <module>demo-gson</module>
+        <module>example-itextpdf</module>
     </modules>
 
     <dependencies>

@@ -1,4 +1,10 @@
-package pers.dyx.design.pattern.creational.abstractfactory;
+package pers.dyx.abstractfactory.factory;
+
+import pers.dyx.abstractfactory.product.Green;
+import pers.dyx.abstractfactory.product.Red;
+import pers.dyx.abstractfactory.product.Shape;
+import pers.dyx.abstractfactory.product.Blue;
+import pers.dyx.abstractfactory.product.Color;
 
 public class ColorFactory extends AbstractFactory {
 

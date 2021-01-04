@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.creational.abstractfactory;
+package pers.dyx.abstractfactory.product;
 
 public class Circle implements Shape {
 

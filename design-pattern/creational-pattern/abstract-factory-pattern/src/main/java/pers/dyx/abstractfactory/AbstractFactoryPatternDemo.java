@@ -1,4 +1,8 @@
-package pers.dyx.design.pattern.creational.abstractfactory;
+package pers.dyx.abstractfactory;
+
+import pers.dyx.abstractfactory.factory.AbstractFactory;
+import pers.dyx.abstractfactory.product.Color;
+import pers.dyx.abstractfactory.product.Shape;
 
 public class AbstractFactoryPatternDemo {
 	public static void main(String[] args) {

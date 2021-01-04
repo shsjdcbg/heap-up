@@ -1,4 +1,6 @@
-package pers.dyx.design.pattern.creational.abstractfactory;
+package pers.dyx.abstractfactory.product;
+
+import pers.dyx.abstractfactory.product.Color;
 
 public class Red implements Color {
 

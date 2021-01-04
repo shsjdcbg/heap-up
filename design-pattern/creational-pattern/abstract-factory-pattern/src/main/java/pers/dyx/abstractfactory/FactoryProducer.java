@@ -1,4 +1,8 @@
-package pers.dyx.design.pattern.creational.abstractfactory;
+package pers.dyx.abstractfactory;
+
+import pers.dyx.abstractfactory.factory.AbstractFactory;
+import pers.dyx.abstractfactory.factory.ColorFactory;
+import pers.dyx.abstractfactory.factory.ShapeFactory;
 
 public class FactoryProducer {
 

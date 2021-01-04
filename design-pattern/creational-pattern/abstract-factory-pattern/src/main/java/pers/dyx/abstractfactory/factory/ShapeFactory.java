@@ -1,4 +1,10 @@
-package pers.dyx.design.pattern.creational.abstractfactory;
+package pers.dyx.abstractfactory.factory;
+
+import pers.dyx.abstractfactory.product.Square;
+import pers.dyx.abstractfactory.product.Circle;
+import pers.dyx.abstractfactory.product.Color;
+import pers.dyx.abstractfactory.product.Rectangle;
+import pers.dyx.abstractfactory.product.Shape;
 
 public class ShapeFactory extends AbstractFactory {
 

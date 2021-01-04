@@ -17,6 +17,11 @@
         <module>springboot-multi-datasource</module>
         <module>springboot-webflux</module>
         <module>springboot-aop</module>
+        <module>springboot-autotest</module>
+        <module>springboot-interceptor</module>
+        <module>springboot-schedule</module>
+        <module>springboot-exception</module>
+        <module>springboot-distributed-id</module>
     </modules>
 
     <!--可以通过覆盖自己项目中的属性来覆盖单个依赖项。例如，要升级到另一个Spring数据发布列表-->

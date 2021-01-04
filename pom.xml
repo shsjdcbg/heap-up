@@ -13,11 +13,6 @@
         <module>web-security</module>
         <module>nlp-china-demo</module>
         <module>demo-springboot</module>
-        <module>demo-springboot/springboot-autotest</module>
-        <module>demo-springboot/springboot-interceptor</module>
-        <module>demo-springboot/springboot-schedule</module>
-        <module>demo-springboot/springboot-exception</module>
-        <module>demo-springboot/springboot-distributed-id</module>
     </modules>
 
     <groupId>pers.dyx</groupId>

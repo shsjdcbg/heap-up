@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>springboot-aop</artifactId>
-    <description>springboot pers.dyx.aop 代码示例</description>
+    <description>springboot aop 代码示例</description>
 
     <dependencies>
         <dependency>

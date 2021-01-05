@@ -1,8 +1,8 @@
-package pers.dyx.design.pattern.structural.proxy.cglib;
+package pers.dyx.proxy.cglib;
 
 /**
  * 需要代理的类
- * 
+ *
  * @author hing
  *
  */

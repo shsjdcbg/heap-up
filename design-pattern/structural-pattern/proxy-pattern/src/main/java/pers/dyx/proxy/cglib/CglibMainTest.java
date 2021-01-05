@@ -1,8 +1,8 @@
-package pers.dyx.design.pattern.structural.proxy.cglib;
+package pers.dyx.proxy.cglib;
 
 /**
  * 测试方法
- * 
+ *
  * @author hing
  *
  */

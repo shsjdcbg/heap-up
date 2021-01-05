@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.proxy.jdk;
+package pers.dyx.proxy.jdk;
 
 public class RealSubject implements Subject {
 	@Override

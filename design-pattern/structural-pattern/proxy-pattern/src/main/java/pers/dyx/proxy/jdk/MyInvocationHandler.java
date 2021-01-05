@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.proxy.jdk;
+package pers.dyx.proxy.jdk;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

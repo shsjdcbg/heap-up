@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.proxy;
+package pers.dyx.proxy;
 
 public class RealImage implements Image {
 

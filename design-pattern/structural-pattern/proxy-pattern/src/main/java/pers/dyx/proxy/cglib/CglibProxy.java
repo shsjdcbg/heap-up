@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.proxy.cglib;
+package pers.dyx.proxy.cglib;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;
@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
 
 /**
  * CGLIB 代理类
- * 
+ *
  * @author hing
  *
  */

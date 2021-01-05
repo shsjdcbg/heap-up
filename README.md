@@ -32,8 +32,11 @@ fastdfs分布式文件系统客户端
 拦截器
 ### 3.7 springboot-schedule
 定时任务
+
+
 ## 4 design-pattern
 设计模式
+
 ### 4.1 creational-pattern
 创建型设计模式
 #### 4.1.1 singleton-pattern
@@ -46,6 +49,12 @@ fastdfs分布式文件系统客户端
 建造者设计模式
 #### 4.1.5 prototype-pattern
 原型模式
+
+### 4.2 structural-pattern
+结构型设计模式
+#### 4.2.1 proxy-pattern
+代理设计模式
+
 ## 5 distributed-limiter
 限流组件：限流的目的是通过对并发访问/请求进行限速，或者对一个时间窗口内的请求进行限速来保护系统，一旦达到限制速率则可以拒绝服务、排队或等待、降级等处理
 ## 6 nlp-china-demo

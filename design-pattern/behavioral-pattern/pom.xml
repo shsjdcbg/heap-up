@@ -20,6 +20,7 @@
         <module>state-pattern</module>
         <module>observer-pattern</module>
         <module>mediator-pattern</module>
+        <module>iterator-pattern</module>
     </modules>
 
 

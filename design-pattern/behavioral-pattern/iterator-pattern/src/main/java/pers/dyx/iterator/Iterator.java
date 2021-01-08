@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.iterator;
+package pers.dyx.iterator;
 
 public interface Iterator {
 	public boolean hasNext();

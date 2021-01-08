@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.iterator;
+package pers.dyx.iterator;
 
 public class NameRepository implements Container {
 	public String names[] = { "Robert", "John", "Julie", "Lora" };

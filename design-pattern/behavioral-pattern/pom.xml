@@ -18,6 +18,7 @@
         <module>command-pattern</module>
         <module>chain-of-responsibility-pattern</module>
         <module>state-pattern</module>
+        <module>observer-pattern</module>
     </modules>
 
 

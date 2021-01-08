@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.observer;
+package pers.dyx.observer;
 
 import java.util.ArrayList;
 import java.util.List;

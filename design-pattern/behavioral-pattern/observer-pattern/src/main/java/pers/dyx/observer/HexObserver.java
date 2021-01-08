@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.observer;
+package pers.dyx.observer;
 
 public class HexObserver extends Observer {
 

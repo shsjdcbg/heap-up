@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.flyweight;
+package pers.dyx.flyweight;
 
 public class Circle implements Shape {
 	private String color;

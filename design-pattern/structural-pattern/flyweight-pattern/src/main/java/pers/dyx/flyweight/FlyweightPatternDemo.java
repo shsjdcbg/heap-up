@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.flyweight;
+package pers.dyx.flyweight;
 
 public class FlyweightPatternDemo {
 	private static final String colors[] = { "Red", "Green", "Blue", "White", "Black" };

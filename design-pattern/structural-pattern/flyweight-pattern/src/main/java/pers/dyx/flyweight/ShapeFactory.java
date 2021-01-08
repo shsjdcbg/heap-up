@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.flyweight;
+package pers.dyx.flyweight;
 
 import java.util.HashMap;
 

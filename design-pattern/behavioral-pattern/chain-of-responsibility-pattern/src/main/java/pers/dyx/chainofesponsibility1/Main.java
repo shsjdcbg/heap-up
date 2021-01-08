@@ -1,4 +1,4 @@
-package pers.dyx.design.designpattern.chainofesponsibility;
+package pers.dyx.chainofesponsibility1;
 
 /**
  * Description：责任链模式

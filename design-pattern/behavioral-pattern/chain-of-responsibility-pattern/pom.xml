@@ -3,21 +3,14 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>design-pattern</artifactId>
+        <artifactId>behavioral-pattern</artifactId>
         <groupId>pers.dyx</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>behavioral-pattern</artifactId>
-    <packaging>pom</packaging>
-    <description>行为设计模式</description>
-    <modules>
-        <module>template-pattern</module>
-        <module>strategy-pattern</module>
-        <module>command-pattern</module>
-        <module>chain-of-responsibility-pattern</module>
-    </modules>
+    <artifactId>chain-of-responsibility-pattern</artifactId>
+    <description>责任链设计模式</description>
 
 
 </project>

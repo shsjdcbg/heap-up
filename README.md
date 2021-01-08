@@ -74,7 +74,7 @@ fastdfs分布式文件系统客户端
 策略模式
 #### command-pattern
 命令模式
-#### chainofresponsibility-pattern
+#### chain-of-responsibility-pattern
 职责链模式
 #### state-pattern
 状态模式

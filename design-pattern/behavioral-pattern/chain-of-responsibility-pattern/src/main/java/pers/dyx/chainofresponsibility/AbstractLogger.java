@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.chainofresponsibility;
+package pers.dyx.chainofresponsibility;
 
 public abstract class AbstractLogger {
 	public static int INFO = 1;

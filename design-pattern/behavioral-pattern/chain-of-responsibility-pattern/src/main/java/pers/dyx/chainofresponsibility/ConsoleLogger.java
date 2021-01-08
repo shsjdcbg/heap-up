@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.chainofresponsibility;
+package pers.dyx.chainofresponsibility;
 
 public class ConsoleLogger extends AbstractLogger {
 

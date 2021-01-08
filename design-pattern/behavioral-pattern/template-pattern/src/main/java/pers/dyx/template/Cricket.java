@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.template;
+package pers.dyx.template;
 
 public class Cricket extends Game {
 

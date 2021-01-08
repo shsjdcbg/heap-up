@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.template;
+package pers.dyx.template;
 
 public abstract class Game {
 	abstract void initialize();

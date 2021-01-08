@@ -3,18 +3,18 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>heap-up</artifactId>
+        <artifactId>design-pattern</artifactId>
         <groupId>pers.dyx</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>design-pattern</artifactId>
+    <artifactId>behavioral-pattern</artifactId>
     <packaging>pom</packaging>
-    <description>设计模式demo</description>
+    <description>行为设计模式</description>
     <modules>
-        <module>creational-pattern</module>
-        <module>structural-pattern</module>
-        <module>behavioral-pattern</module>
+        <module>template-pattern</module>
     </modules>
+
+
 </project>

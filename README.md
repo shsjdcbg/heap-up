@@ -65,6 +65,32 @@ fastdfs分布式文件系统客户端
 #### 4.2.6 composite-pattern
 组合设计模式
 
+
+### 4.3 behavioral-pattern
+行为型设计模式
+#### template-pattern
+模板方法模式
+#### strategy-pattern
+策略模式
+#### command-pattern
+命令模式
+#### chainofresponsibility-pattern
+职责链模式
+#### state-pattern
+状态模式
+#### observer-pattern
+观察者模式
+#### mediator-pattern
+中介者模式
+#### iterator-pattern
+迭代器模式
+#### visitor-pattern
+访问者模式
+#### memento-pattern
+备忘录模式
+#### interpreter-pattern
+解释器模式
+
 ## 5 distributed-limiter
 限流组件：限流的目的是通过对并发访问/请求进行限速，或者对一个时间窗口内的请求进行限速来保护系统，一旦达到限制速率则可以拒绝服务、排队或等待、降级等处理
 ## 6 nlp-china-demo

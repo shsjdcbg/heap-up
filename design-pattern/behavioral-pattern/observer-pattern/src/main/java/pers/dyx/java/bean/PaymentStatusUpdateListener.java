@@ -1,4 +1,4 @@
-package pers.dyx.design.designpattern.observer.bean;
+package pers.dyx.java.bean;
 
 import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;

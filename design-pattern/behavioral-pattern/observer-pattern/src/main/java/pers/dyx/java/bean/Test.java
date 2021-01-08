@@ -1,4 +1,4 @@
-package pers.dyx.design.designpattern.observer.bean;
+package pers.dyx.java.bean;
 
 /**
  * @author: dyx

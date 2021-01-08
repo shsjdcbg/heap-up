@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.memento;
+package pers.dyx.memento;
 
 public class Memento {
 	private String state;

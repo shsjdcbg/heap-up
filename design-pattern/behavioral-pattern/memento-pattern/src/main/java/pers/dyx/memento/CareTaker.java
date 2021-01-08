@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.memento;
+package pers.dyx.memento;
 
 import java.util.ArrayList;
 import java.util.List;

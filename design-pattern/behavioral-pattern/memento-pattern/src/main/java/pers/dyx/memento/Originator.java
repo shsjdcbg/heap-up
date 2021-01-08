@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.memento;
+package pers.dyx.memento;
 
 public class Originator {
 	private String state;

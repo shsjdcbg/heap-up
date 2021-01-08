@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.mediator;
+package pers.dyx.mediator;
 
 public class User {
 	private String name;

@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.mediator;
+package pers.dyx.mediator;
 
 import java.util.Date;
 

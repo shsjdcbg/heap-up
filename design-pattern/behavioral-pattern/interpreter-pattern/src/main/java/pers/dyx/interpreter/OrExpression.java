@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.interpreter;
+package pers.dyx.interpreter;
 
 public class OrExpression implements Expression {
 

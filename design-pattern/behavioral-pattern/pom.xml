@@ -23,6 +23,7 @@
         <module>iterator-pattern</module>
         <module>visitor-pattern</module>
         <module>memento-pattern</module>
+        <module>interpreter-pattern</module>
     </modules>
 
 

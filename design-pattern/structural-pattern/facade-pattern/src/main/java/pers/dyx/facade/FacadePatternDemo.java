@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.facade;
+package pers.dyx.facade;
 
 public class FacadePatternDemo {
 	public static void main(String[] args) {

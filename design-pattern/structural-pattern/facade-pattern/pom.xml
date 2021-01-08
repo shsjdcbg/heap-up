@@ -3,21 +3,14 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>design-pattern</artifactId>
+        <artifactId>structural-pattern</artifactId>
         <groupId>pers.dyx</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>structural-pattern</artifactId>
-    <packaging>pom</packaging>
-    <description>结构型设计模式</description>
+    <artifactId>facade-pattern</artifactId>
+    <description>外观设计模式</description>
 
-    <modules>
-        <module>proxy-pattern</module>
-        <module>adapter-pattern</module>
-        <module>bridge-pattern</module>
-        <module>decorator-pattern</module>
-        <module>facade-pattern</module>
-    </modules>
+
 </project>

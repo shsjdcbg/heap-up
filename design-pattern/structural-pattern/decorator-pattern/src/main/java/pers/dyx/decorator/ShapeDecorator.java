@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.decorator;
+package pers.dyx.decorator;
 
 public abstract class ShapeDecorator implements Shape {
 	protected Shape decoratedShape;

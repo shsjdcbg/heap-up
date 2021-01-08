@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.decorator;
+package pers.dyx.decorator;
 
 public class Circle implements Shape {
 

@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.composite;
+package pers.dyx.composite;
 
 public class CompositePatternDemo {
 	public static void main(String[] args) {

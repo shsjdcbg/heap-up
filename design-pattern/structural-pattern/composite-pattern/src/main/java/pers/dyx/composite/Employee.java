@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.composite;
+package pers.dyx.composite;
 
 import java.util.ArrayList;
 import java.util.List;

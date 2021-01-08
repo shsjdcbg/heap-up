@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.adapter;
+package pers.dyx.adapter;
 
 public class Mp4Player implements AdvancedMediaPlayer {
 

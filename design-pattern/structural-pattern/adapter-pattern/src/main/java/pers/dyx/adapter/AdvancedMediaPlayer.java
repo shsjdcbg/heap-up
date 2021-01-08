@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.adapter;
+package pers.dyx.adapter;
 
 public interface AdvancedMediaPlayer {
 	void playVlc(String fileName);

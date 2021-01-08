@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.strategy;
+package pers.dyx.strategy;
 
 public class OperationSubstract implements Strategy {
 	@Override

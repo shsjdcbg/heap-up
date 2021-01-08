@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.strategy;
+package pers.dyx.strategy;
 
 public interface Strategy {
 	public int doOperation(int num1, int num2);

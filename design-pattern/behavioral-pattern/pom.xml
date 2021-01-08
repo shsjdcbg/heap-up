@@ -17,6 +17,7 @@
         <module>strategy-pattern</module>
         <module>command-pattern</module>
         <module>chain-of-responsibility-pattern</module>
+        <module>state-pattern</module>
     </modules>
 
 

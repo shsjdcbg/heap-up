@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.state;
+package pers.dyx.state;
 
 public class Context {
 	private State state;

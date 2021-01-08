@@ -1,6 +1,6 @@
-package pers.dyx.design.pattern.behavioral.visitor;
+package pers.dyx.visitor;
 
-public class Keyboard implements ComputerPart {
+public class Monitor implements ComputerPart {
 
 	@Override
 	public void accept(ComputerPartVisitor computerPartVisitor) {

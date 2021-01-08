@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.visitor;
+package pers.dyx.visitor;
 
 public class VisitorPatternDemo {
 	public static void main(String[] args) {

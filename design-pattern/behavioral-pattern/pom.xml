@@ -21,6 +21,7 @@
         <module>observer-pattern</module>
         <module>mediator-pattern</module>
         <module>iterator-pattern</module>
+        <module>visitor-pattern</module>
     </modules>
 
 

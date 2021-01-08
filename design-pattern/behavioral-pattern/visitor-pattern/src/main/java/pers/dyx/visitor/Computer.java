@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.visitor;
+package pers.dyx.visitor;
 
 public class Computer implements ComputerPart {
 

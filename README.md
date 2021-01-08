@@ -68,27 +68,27 @@ fastdfs分布式文件系统客户端
 
 ### 4.3 behavioral-pattern
 行为型设计模式
-#### template-pattern
+#### 4.3.1 template-pattern
 模板方法模式
-#### strategy-pattern
+#### 4.3.2 strategy-pattern
 策略模式
-#### command-pattern
+#### 4.3.3 command-pattern
 命令模式
-#### chain-of-responsibility-pattern
+#### 4.3.4 chain-of-responsibility-pattern
 职责链模式
-#### state-pattern
+#### 4.3.5 state-pattern
 状态模式
-#### observer-pattern
+#### 4.3.6 observer-pattern
 观察者模式
-#### mediator-pattern
+#### 4.3.7 mediator-pattern
 中介者模式
-#### iterator-pattern
+#### 4.3.8 iterator-pattern
 迭代器模式
-#### visitor-pattern
+#### 4.3.9 visitor-pattern
 访问者模式
-#### memento-pattern
+#### 4.3.10 memento-pattern
 备忘录模式
-#### interpreter-pattern
+#### 4.3.11 interpreter-pattern
 解释器模式
 
 ## 5 distributed-limiter

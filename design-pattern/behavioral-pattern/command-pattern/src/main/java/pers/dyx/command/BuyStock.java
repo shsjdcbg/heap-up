@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.behavioral.command;
+package pers.dyx.command;
 
 public class BuyStock implements Order {
 	private Stock abcStock;

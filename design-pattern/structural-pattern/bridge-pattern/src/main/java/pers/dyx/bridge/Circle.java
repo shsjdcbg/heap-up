@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.bridge;
+package pers.dyx.bridge;
 
 public class Circle extends Shape {
     private int x, y, radius;

@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.bridge;
+package pers.dyx.bridge;
 
 public class BridgePatternDemo {
 	public static void main(String[] args) {

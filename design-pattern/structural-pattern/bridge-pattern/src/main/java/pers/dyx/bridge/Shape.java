@@ -1,4 +1,4 @@
-package pers.dyx.design.pattern.structural.bridge;
+package pers.dyx.bridge;
 
 public abstract class Shape {
     protected DrawAPI drawAPI;

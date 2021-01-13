@@ -16,6 +16,7 @@
         <module>demo-fastjson</module>
         <module>demo-gson</module>
         <module>example-itextpdf</module>
+        <module>demo-jackson</module>
     </modules>
 
     <dependencies>

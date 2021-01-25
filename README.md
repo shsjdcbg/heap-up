@@ -10,7 +10,9 @@ Lombok 使用demo
 alibaba fastjson 实例
 ### 2.3 demo-gson
 google gson 示例
-### 2.4 example-itextpdf
+### 2.4 demo-jackson
+jackson 示例
+### 2.5 example-itextpdf
 绘制PDf示例，使用itextpdf框架【子项目单独导入，作为子项目找不到resource中的文件】
 ## 3 demo-springboot
 ### 3.1 springboot-aop

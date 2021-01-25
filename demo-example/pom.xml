@@ -17,6 +17,7 @@
         <module>demo-gson</module>
         <module>example-itextpdf</module>
         <module>demo-jackson</module>
+        <module>demo-netty</module>
     </modules>
 
     <dependencies>

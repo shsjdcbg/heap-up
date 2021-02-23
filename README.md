@@ -36,6 +36,8 @@ fastdfs分布式文件系统客户端
 拦截器
 ### 3.7 springboot-schedule
 定时任务
+### 3.8 springboot-starter
+springboot 自定义starter示例
 
 
 ## 4 design-pattern

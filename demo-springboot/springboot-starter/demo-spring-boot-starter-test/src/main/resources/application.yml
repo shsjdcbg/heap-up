@@ -1,0 +1,4 @@
+demo:
+  isopen: true
+  sayWhat: hello
+  toWho: dyx

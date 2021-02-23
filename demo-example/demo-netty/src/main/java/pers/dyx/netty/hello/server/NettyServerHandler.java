@@ -8,7 +8,6 @@ import java.util.Date;
 
 /**
  * 服务端业务逻辑
- * Version:1.0.0
  *
  * @author dyx
  * @date 2017-8-31
@@ -38,5 +37,11 @@ public class NettyServerHandler extends ChannelInboundHandlerAdapter {
         System.out.println("连接的客户端地址:" + ctx.channel().remoteAddress());
         ctx.writeAndFlush("客户端" + InetAddress.getLocalHost().getHostName() + "成功与服务端建立连接！ \n");
         super.channelActive(ctx);
+    }
+
+    @Override
+    public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) {
+        cause.printStackTrace();
+        ctx.close();
     }
 }

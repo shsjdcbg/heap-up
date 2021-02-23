@@ -40,9 +40,10 @@ fastdfs分布式文件系统客户端
 springboot 自定义starter示例
 ### 3.9 springboot-autoconf
 springboot 自动配置示例
-### 3.9 springboot-filter
+### 3.10 springboot-filter
 springboot 过滤器filter示例
-
+### 3.11 springboot-runner
+springboot 实现Spring容器启动完成后执行的功能
 
 ## 4 design-pattern
 设计模式

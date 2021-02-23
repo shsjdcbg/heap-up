@@ -38,7 +38,8 @@ fastdfs分布式文件系统客户端
 定时任务
 ### 3.8 springboot-starter
 springboot 自定义starter示例
-
+### 3.9 springboot-autoconf
+springboot 自动配置示例
 
 ## 4 design-pattern
 设计模式

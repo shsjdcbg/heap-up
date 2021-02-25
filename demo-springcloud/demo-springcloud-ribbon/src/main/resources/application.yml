@@ -1,0 +1,10 @@
+server:
+  port: 8005
+spring:
+  application:
+    # 服务名称
+    name: demo-ribbon-client
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8001/eureka

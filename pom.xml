@@ -12,6 +12,7 @@
         <module>web-security</module>
         <module>nlp-china-demo</module>
         <module>demo-springboot</module>
+        <module>demo-springcloud</module>
     </modules>
 
     <groupId>pers.dyx</groupId>

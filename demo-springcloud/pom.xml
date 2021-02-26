@@ -17,6 +17,7 @@
         <module>demo-springcloud-ribbon</module>
         <module>demo-springcloud-feign</module>
         <module>demo-springcloud-hystrix</module>
+        <module>demo-springcloud-zuul</module>
     </modules>
 
     <properties>

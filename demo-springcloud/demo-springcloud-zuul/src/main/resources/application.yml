@@ -1,0 +1,14 @@
+server:
+  port: 8010
+spring:
+  application:
+    # 服务名称
+    name: demo-zuul-client
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8001/eureka
+zuul:
+  routes:
+    biancheng.path: /baidu/**
+    biancheng.url: https://www.baidu.com

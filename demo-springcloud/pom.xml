@@ -16,6 +16,7 @@
         <module>demo-springcloud-eureka</module>
         <module>demo-springcloud-ribbon</module>
         <module>demo-springcloud-feign</module>
+        <module>demo-springcloud-hystrix</module>
     </modules>
 
     <properties>

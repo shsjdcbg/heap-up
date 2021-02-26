@@ -1,0 +1,14 @@
+server:
+  port: 8008
+spring:
+  application:
+    # 服务名称
+    name: demo-hystrix-client
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8001/eureka
+feign:
+  hystrix:
+    # 开启 Feign 对 Hystrix 的支持 (默认为false)
+    enabled: true

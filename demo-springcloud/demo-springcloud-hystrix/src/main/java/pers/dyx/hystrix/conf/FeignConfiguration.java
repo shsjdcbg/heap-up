@@ -1,7 +1,6 @@
-package pers.dyx.feign.conf;
+package pers.dyx.hystrix.conf;
 
 import feign.Logger;
-import feign.auth.BasicAuthRequestInterceptor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

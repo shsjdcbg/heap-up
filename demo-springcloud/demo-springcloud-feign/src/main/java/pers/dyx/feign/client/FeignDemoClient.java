@@ -1,4 +1,4 @@
-package pers.dyx.feign;
+package pers.dyx.feign.client;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;

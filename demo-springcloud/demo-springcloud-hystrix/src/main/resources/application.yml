@@ -12,3 +12,11 @@ feign:
   hystrix:
     # 开启 Feign 对 Hystrix 的支持 (默认为false)
     enabled: true
+hystrix:
+  dashboard:
+    proxyStreamAllowList: '**'
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream

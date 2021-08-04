@@ -27,6 +27,7 @@
         <module>springboot-filter</module>
         <module>springboot-runner</module>
         <module>springboot-async</module>
+        <module>springboot-event</module>
     </modules>
 
     <!--可以通过覆盖自己项目中的属性来覆盖单个依赖项。例如，要升级到另一个Spring数据发布列表-->
@@ -40,6 +41,11 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 

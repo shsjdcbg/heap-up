@@ -18,6 +18,7 @@
         <module>example-itextpdf</module>
         <module>demo-jackson</module>
         <module>demo-netty</module>
+        <module>demo-junit5</module>
     </modules>
 
     <dependencies>

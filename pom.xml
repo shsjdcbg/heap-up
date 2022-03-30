@@ -10,9 +10,9 @@
         <module>design-pattern</module>
         <module>distributed-limiter</module>
         <module>web-security</module>
-        <module>nlp-china-demo</module>
         <module>demo-springboot</module>
         <module>demo-springcloud</module>
+        <module>AI-demo</module>
     </modules>
 
     <groupId>pers.dyx</groupId>

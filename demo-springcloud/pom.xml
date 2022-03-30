@@ -18,6 +18,7 @@
         <module>demo-springcloud-feign</module>
         <module>demo-springcloud-hystrix</module>
         <module>demo-springcloud-zuul</module>
+        <module>demo-springcloud-gateway</module>
     </modules>
 
     <properties>

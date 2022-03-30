@@ -1,0 +1,24 @@
+server:
+  port: 8012
+spring:
+  application:
+    # 服务名称
+    name: demo-gateway-client
+  cloud:
+    gateway:
+      routes:
+        - id: path_route
+          uri: http://c.biancheng.net
+          predicates:
+            - Path=/spring_cloud
+      discovery:
+        locator:
+          # 开启为所有注册到Eureka的服务都进行转发操作
+          enabled: true
+          # 兼容小写
+          lowerCaseServiceId: true
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8001/eureka
